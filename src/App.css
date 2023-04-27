@@ -149,3 +149,12 @@ input[type='number'] {
 .list li:hover .delete-btn {
   opacity: 1;
 }
+
+.total_plus {
+  color: #2ecc71;
+}
+
+.total_minus {
+  color: #c0392b;
+}
+
